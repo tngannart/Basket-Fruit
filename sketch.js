@@ -179,7 +179,7 @@ let gridarrR = [
 
             //font2 = loadFont('sigokae.ttf');
             images[10] = loadImage('0b.png');
-            images[11] = loadImage('/1b.png');
+            images[11] = loadImage('1b.png');
             images[12] = loadImage('2b.png');
             images[13] = loadImage('3b.png');
             images[14] = loadImage('4b.png');
