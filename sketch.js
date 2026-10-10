@@ -169,22 +169,22 @@ let gridarrR = [
      let currentPage = 0;
      
      function preload()  {
-            font1 = loadFont('assets/nausea.otf');
-            //font3 = loadFont('assets/fruit.ttf');
-            images[0] = loadImage('assets/0.png');
-            images[1] = loadImage('assets/1.png');
-            images[2] = loadImage('assets/2.png');
-            images[3] = loadImage('assets/3.png');
-            images[4] = loadImage('assets/4.png');
+            font1 = loadFont('nausea.otf');
+            //font3 = loadFont('fruit.ttf');
+            images[0] = loadImage('0.png');
+            images[1] = loadImage('1.png');
+            images[2] = loadImage('2.png');
+            images[3] = loadImage('3.png');
+            images[4] = loadImage('4.png');
 
-            //font2 = loadFont('assets1/sigokae.ttf');
-            images[10] = loadImage('assets1/0b.png');
-            images[11] = loadImage('assets1/1b.png');
-            images[12] = loadImage('assets1/2b.png');
-            images[13] = loadImage('assets1/3b.png');
-            images[14] = loadImage('assets1/4b.png');
-            images[15] = loadImage('assets1/5b.png');
-            images[16] = loadImage('assets1/6b.png');
+            //font2 = loadFont('sigokae.ttf');
+            images[10] = loadImage('0b.png');
+            images[11] = loadImage('/1b.png');
+            images[12] = loadImage('2b.png');
+            images[13] = loadImage('3b.png');
+            images[14] = loadImage('4b.png');
+            images[15] = loadImage('5b.png');
+            images[16] = loadImage('6b.png');
      }
 
      function setup() {
